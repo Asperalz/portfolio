@@ -1,4 +1,4 @@
-# Jonathan Carroll — DevOps Portfolio
+# Portfolio
 
 A minimalist, dark, terminal-inspired portfolio site built with React + Vite.
 
